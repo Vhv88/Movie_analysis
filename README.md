@@ -34,7 +34,7 @@ The analysis process is detailed in the `movies_analysis.R` script and encompass
 
 Key insights include the high profitability of the Horror genre despite its lower average budget, the strong performance of Action and Adventure genres in revenue generation, and the relatively weak correlation between movie ratings and revenue.
 
-# DASHBOARD LINK [Tableau Link](https://public.tableau.com/app/profile/victor.vico/viz/MovieMetricsRevenuecount/ROI-Genre-movies?publish=yes)(https://public.tableau.com/app/profile/victor.vico/viz/MovieMetricsDashboard_17113693206590/Dashboard2?publish=yes).
+DASHBOARD LINK [Tableau Link](https://public.tableau.com/app/profile/victor.vico/viz/MovieMetricsRevenuecount/ROI-Genre-movies?publish=yes)(https://public.tableau.com/app/profile/victor.vico/viz/MovieMetricsDashboard_17113693206590/Dashboard2?publish=yes).
 
 - **Insights Q1**:  [Tableau Link](https://public.tableau.com/app/profile/victor.vico/viz/MovieMetricsAVGvsTotalbygenre/Profitability?publish=yes).
 
