@@ -69,7 +69,6 @@ These trends indicate that while Action movies are prevalent, genres with lower 
 
 - ** Conclusions Q2: 
 The data suggests that while there is some level of correlation between movie ratings and revenue, it is not a strongly positive one. High ratings do not guarantee high revenues, and similarly, movies with moderate or even low ratings can sometimes generate substantial revenues. This indicates that factors other than just ratings, such as genre, marketing, star power, and release timing, play significant roles in a movie's financial success. It is also evident that blockbusters, which often receive massive budgets for production and promotion, can achieve significant box office revenue despite a wide range of ratings. Therefore, while ratings can be an indicator of a movie's quality and audience reception, they are not a sole predictor of financial performance.
-## Viewing the Presentation
 
 ------------------------
 
@@ -91,6 +90,8 @@ Genres with High Revenue Potential: Animation and family stand out for having hi
 If you have a high budget available for film production, the genre you choose should align with both market trends and potential returns. Although Action and Adventure genres are traditionally associated with high budgets due to their scale and spectacle, they are also shown to generate high revenues, making them a safer bet for significant investment. However, the Horror genre, despite its typically lower production costs, stands out with an exceptionally high ROI. This suggests that for investors willing to venture outside of traditional blockbuster genres, Horror offers a chance for substantial profitability relative to investment.
  
 Given these factors, a recommendation would be to consider the Adventure genre, which balances high revenue potential with a solid ROI, while still making a significant impact on the market. It's also essential to note that while the Drama genre may lead in the number of movies produced, it does not necessarily translate into the most profitable choice for high-budget films. Thus, while the final decision would also need to take into consider the specific goals and risk appetite of the investors or producers, genres like Adventure and Animation & Family seem to offer a favorable balance between budget, revenue, and ROI.
+
+## Viewing the Presentation
 
 The PowerPoint presentation (`PPT Movies.pptx`) provides a comprehensive overview of the analysis, key findings, and recommendations. It is designed to be accessible and informative for both industry professionals and general audiences.
 
