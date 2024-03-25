@@ -8,7 +8,7 @@ library(dplyr)
 library(openxlsx)
 
 # Loading the CSV dataset of Movies
-moviedata <- read.csv("C:/Users/vhv88/OneDrive/Escritorio/Proyectos Portfolio/Movies Proyect/moviesdataset2.csv", sep = ";")
+moviedata <- read.csv("./data/moviesdataset2.csv", sep = ";")
 
 # Looking at the structure of the data and the first few rows
 str(moviedata)
@@ -75,4 +75,4 @@ print(paste("Min Popularity:", min_popularity))
 View(moviedata_clean)
 
 #Saving CSV format
-write.csv(moviedata_clean, "C:/Users/vhv88/OneDrive/Escritorio/Proyectos Portfolio/Movies Proyect/moviedata_clean.csv", row.names = FALSE)
+write.csv(moviedata_clean, "./data/moviedata_clean.csv", row.names = FALSE)
