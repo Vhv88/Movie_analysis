@@ -7,19 +7,19 @@ library(readr)
 library(dplyr)
 library(openxlsx)
 
-# loading the CSV dataset of Movies
+# Loading the CSV dataset of Movies
 moviedata <- read.csv("C:/Users/vhv88/OneDrive/Escritorio/Proyectos Portfolio/Movies Proyect/moviesdataset2.csv", sep = ";")
 
-# Look at the structure of the data and the first few rows
+# Looking at the structure of the data and the first few rows
 str(moviedata)
 head(moviedata)
 summary(moviedata)
 
-# Clean the data -  exclude rows with zero or missing budget, vote_average or revenue
+# Cleaning the data -  excluding rows with zero or missing values for:  budget, vote_average or revenue
 moviedata_clean <- moviedata %>%
   filter(budget > 0, revenue > 0, vote_average > 0) 
 
-# Removing collumns that I won't need for the case studio
+# Removing columns that I won't need for the case studio
 moviedata_clean <- moviedata_clean %>%
   select(
     -keywords,
